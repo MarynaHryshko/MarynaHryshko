@@ -21,5 +21,5 @@ How to reach me?
 
 If you have any inquiries, ideas, or suggestions, please don't hesitate to contact me [LinkedIn](www.linkedin.com/in/maryna-hryshko-52b2762a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marynahryshko&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" width="45%" align="right" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marynahryshko&include_all_commits=true&count_private=true&show_icons=true&theme=dark" width="45%" align="right" alt="my Github Stats"/>
 
