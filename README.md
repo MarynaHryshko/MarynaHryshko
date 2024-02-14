@@ -1,3 +1,5 @@
+![image text](https://github.com/MarynaHryshko/MarynaHryshko/blob/main/book_c.jpg?raw=true)
+
 ### Hi there 👋
 
 I'm Maryna Hryshko, an aspiring Data Engineer, currently exploring various courses to enhance my skills. Welcome to my GitHub profile!
